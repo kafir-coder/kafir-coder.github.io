@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>data structures on Runheheim</title>
+    <link>https://kafir-coder.github.io/tags/data-structures/</link>
+    <description>Recent content in data structures on Runheheim</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Sun, 03 Jul 2022 00:55:27 +0100</lastBuildDate><atom:link href="https://kafir-coder.github.io/tags/data-structures/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>On algorithms time and space complexity</title>
+      <link>https://kafir-coder.github.io/posts/on_algorithms_time_and_space_complexity/</link>
+      <pubDate>Sun, 03 Jul 2022 00:55:27 +0100</pubDate>
+      
+      <guid>https://kafir-coder.github.io/posts/on_algorithms_time_and_space_complexity/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

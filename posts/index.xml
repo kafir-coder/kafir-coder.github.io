@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Runheheim</title>
+    <link>https://kafir-coder.github.io/posts/</link>
+    <description>Recent content in Posts on Runheheim</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Sun, 03 Jul 2022 00:55:27 +0100</lastBuildDate><atom:link href="https://kafir-coder.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>On algorithms time and space complexity</title>
+      <link>https://kafir-coder.github.io/posts/on_algorithms_time_and_space_complexity/</link>
+      <pubDate>Sun, 03 Jul 2022 00:55:27 +0100</pubDate>
+      
+      <guid>https://kafir-coder.github.io/posts/on_algorithms_time_and_space_complexity/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>What about pointers</title>
+      <link>https://kafir-coder.github.io/posts/what_about_pointers/</link>
+      <pubDate>Sun, 03 Jul 2022 00:53:37 +0100</pubDate>
+      
+      <guid>https://kafir-coder.github.io/posts/what_about_pointers/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>What all programmers should know about memories</title>
+      <link>https://kafir-coder.github.io/posts/what_all_programmers_should_know_about_memories/</link>
+      <pubDate>Sun, 03 Jul 2022 00:45:06 +0100</pubDate>
+      
+      <guid>https://kafir-coder.github.io/posts/what_all_programmers_should_know_about_memories/</guid>
+      <description>I hate jews!</description>
+    </item>
+    
+    <item>
+      <title>Dont use LIKE, instead use fulltext search</title>
+      <link>https://kafir-coder.github.io/posts/dont_use_like_instead_use_fulltext_search/</link>
+      <pubDate>Sun, 03 Jul 2022 00:40:36 +0100</pubDate>
+      
+      <guid>https://kafir-coder.github.io/posts/dont_use_like_instead_use_fulltext_search/</guid>
+      <description>Es tut mir Leid, aber das ist null </description>
+    </item>
+    
+    <item>
+      <title>The first light</title>
+      <link>https://kafir-coder.github.io/posts/the_first_light/</link>
+      <pubDate>Sat, 02 Jul 2022 22:37:17 +0100</pubDate>
+      
+      <guid>https://kafir-coder.github.io/posts/the_first_light/</guid>
+      <description>Introduction of me
+Hi, my name is Caio Joaquim Januário Tony, I&amp;rsquo;m angolan (don&amp;rsquo;t worry if you don&amp;rsquo;t know about this). I always had a wish to leave my own fingerprint in the world but never knew how to do this or simply was a lazy day (Scafrándo!!! 👽🤡), But now I decided to make a Weblog to accomplish this life goal, and you ask me - why not to make a YouTube channel?</description>
+    </item>
+    
+  </channel>
+</rss>
